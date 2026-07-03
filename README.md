@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b><br/>
-  I like building things for the web and figuring out how they work end to end.
+  I like exploring new ideas and concepts, then turning them into working applications.
 </p>
 
 <p align="center">
