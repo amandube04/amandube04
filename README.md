@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer</b><br/>
-  I build applications that turn ideas into products people actually use. 🚀
+  I like building things for the web and figuring out how they work end to end.
 </p>
 
 <p align="center">
